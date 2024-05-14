@@ -1,0 +1,1 @@
+var json_UBNDTnh_22 = {"type":"FeatureCollection","name":"UBNDTnh_22","features":[{"type":"Feature","properties":{"fid":"1","Ten":"Thành phố Huế","CapHC":"Thành phố","Tinh":"Thừa Thiên Huế "},"geometry":{"type":"Point","coordinates":[776024.721967655932531,1822537.50373840238899]}}]}

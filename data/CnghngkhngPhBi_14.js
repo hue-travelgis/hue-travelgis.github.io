@@ -1,0 +1,1 @@
+var json_CnghngkhngPhBi_14 = {"type":"FeatureCollection","name":"CnghngkhngPhBi_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[107.703396243686228,16.395729115734394]}}]}

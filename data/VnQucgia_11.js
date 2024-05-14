@@ -1,0 +1,1 @@
+var json_VnQucgia_11 = {"type":"FeatureCollection","name":"VnQucgia_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"x":107.89371,"y":16.21652,"name":"Vườn quốc gia Bạch Mã","Huyện":"Phú Lộc"},"geometry":{"type":"Point","coordinates":[107.8937077,16.21652312]}}]}
